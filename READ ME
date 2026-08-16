@@ -1,0 +1,58 @@
+🕹️ Tic Tac Toe Game
+
+A modern, professional Tic Tac Toe web app built using HTML, CSS, and JavaScript.
+It features a smooth, responsive UI, dark/light mode toggle, and instant gameplay — all optimized for speed and performance.
+LINK-https://koduruvijaykumar.github.io/Tic-Tac-Toe-Game/
+
+🎯 Features
+
+🧠 Classic 3×3 Tic Tac Toe logic
+
+⚡ Smooth and fast gameplay (no lag)
+
+🌗 Light & Dark theme toggle with animated icon
+
+💡 Highlight effect for winning combination
+
+🌀 Reset button to restart the game instantly
+
+📱 Fully responsive (works on phones, tablets, and PCs)
+
+🎨 Clean modern UI with glowing accent colors
+
+🧩 Technologies Used
+Technology	Purpose
+HTML5	Structure of the app
+CSS3	Styling and animations
+JavaScript (ES6)	Game logic and interactivity
+Remix Icon	Theme toggle icons
+
+🎮 How to Play
+
+Player X starts first.
+
+Click on a cell to make your move.
+
+The next turn switches to Player O.
+
+The game announces the winner or a tie.
+
+Press 🔄 Reset Game to play again.
+
+
+🌈 Screenshots
+Dark Mode	
+<img width="2796" height="1597" alt="Screenshot 2025-10-11 202854" src="https://github.com/user-attachments/assets/a44724e0-2f83-4493-90dd-db3018722771" />
+
+
+
+
+Light Mode
+<img width="2814" height="1612" alt="image" src="https://github.com/user-attachments/assets/0e532336-660a-420b-bcc3-66a33afbb8a3" />
+
+	
+
+🏆 Author
+
+👨‍💻 Vijay Kumar Reddy
+koduruvijaykumar844@gmail.com
